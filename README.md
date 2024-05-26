@@ -4,6 +4,9 @@ This is a minimalistic green soft theme for Visual Studio Code. It is based on t
 The theme is designed to be easy on the eyes and to be used for long periods of time.
 
 
+## Vscode Marketplace Link
+[Minimal Green Soft Theme](https://marketplace.visualstudio.com/items?itemName=DraganBajcic.theme-minimal-green)
+
 ## Screenshots
 
 ##### Code snippets
