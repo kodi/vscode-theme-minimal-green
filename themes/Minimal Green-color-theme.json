@@ -1,16 +1,30 @@
 {
-  "name": "Minimal Green",
+  "name": "Minimal Green Soft",
   "colors": {
     "activityBar.background": "#121215",
     "activityBarBadge.background": "#555555",
-    "editor.background": "#111111",
+    "breadcrumb.activeSelectionForeground": "#acffaa",
+    "breadcrumb.background": "#142814",
+    "breadcrumb.foreground": "#888888",
+    "editor.background": "#070707",
     "editor.foreground": "#e5e5e5",
+    "editorGroupHeader.tabsBackground": "#111111",
+    "gitDecoration.modifiedResourceForeground": "#eeffaa",
+    "scrollbarSlider.background": "#212121",
+    "sideBar.background": "#090909",
     "sideBarTitle.foreground": "#e5e5e5",
     "statusBar.background": "#1a1a1a",
     "statusBar.debuggingBackground": "#263238",
     "statusBar.noFolderBackground": "#212121",
     "statusBarItem.remoteBackground": "#336c33",
-    "terminal.background": "#0a0a0a"
+    "tab.activeBackground": "#000000",
+    "tab.activeBorderTop": "#337733",
+    "tab.activeForeground": "#cccccc",
+    "tab.border": "#2e2e2e",
+    "tab.inactiveBackground": "#1e1e1e",
+    "tab.inactiveForeground": "#666666",
+    "terminal.background": "#0a0a0a",
+    "titleBar.activeBackground": "#000000"
   },
   "tokenColors": [
     {
