@@ -2,7 +2,8 @@
   "name": "theme-minimal-green",
   "displayName": "Minimal Green Soft",
   "description": "Smooth Minimal theme with green accents",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "icon": "icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
