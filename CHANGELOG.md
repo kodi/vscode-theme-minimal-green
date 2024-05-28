@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.1.4]   - 2024-05-28
+- Better support for highlighting inside of template strings
+
 ## [0.1.3]   - 2024-05-28
 - Updated screenshots
 
