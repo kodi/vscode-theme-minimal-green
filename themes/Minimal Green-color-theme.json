@@ -98,6 +98,42 @@
       "settings": {
         "foreground": "#B267E6"
       }
+    },
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#555555"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#88CC88"
+      }
+    },
+    {
+      "scope": ["source"],
+      "settings": {
+        "foreground": "#BBBBBB"
+      }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "scope": ["meta.embedded"],
+      "settings": {
+        "foreground": "#BBBBBB"
+      }
+    },
+    {
+      "scope": ["meta.template.expression"],
+      "settings": {
+        "foreground": "#AAEEAA"
+      }
     }
   ]
 }
