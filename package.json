@@ -2,7 +2,7 @@
   "name": "theme-minimal-green",
   "displayName": "Minimal Green Soft",
   "description": "Smooth Minimal theme with green accents",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "icon": "icon.png",
   "license": "MIT",
   "repository": {
@@ -19,7 +19,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Minimal Green",
+        "label": "Minimal Green Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal Green-color-theme.json"
       }
