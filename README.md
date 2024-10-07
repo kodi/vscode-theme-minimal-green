@@ -11,4 +11,4 @@ The theme is designed to be easy on the eyes and to be used for long periods of 
 
 ### Whole Editor
 
-![Screenshot](screenshot.png)
+![Screenshot](code_example_003.png)
