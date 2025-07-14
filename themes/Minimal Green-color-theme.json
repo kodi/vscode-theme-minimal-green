@@ -39,6 +39,12 @@
   },
   "tokenColors": [
     {
+      "scope": "storage.type.function.arrow",
+      "settings": {
+        "foreground": "#647635"
+      }
+    },
+    {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#616161",
