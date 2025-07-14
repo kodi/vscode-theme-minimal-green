@@ -134,6 +134,18 @@
       "settings": {
         "foreground": "#AAEEAA"
       }
+    },
+    {
+      "scope": ["meta.type", "meta.return-type"],
+      "settings": {
+        "foreground": "#9ce185"
+      }
+    },
+    {
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#2eb800"
+      }
     }
   ]
 }
